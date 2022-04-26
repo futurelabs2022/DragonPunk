@@ -14,4 +14,4 @@ Usually, NFT projects will use this kind of sales revenue to donate to charity. 
 
 我们不能透露太多，但我们确实有来自 Crypto 空间的良好资源，以及一些计划与知名 DeFi 项目、音乐界名人以及一些 NFT艺术家合作联合发布相关的 NFT。
 
-通常，NFT 项目会用这种销售收入捐赠给慈善机构。但让我们实事求是，**与 DragonPunk 相关的销售收入的 80% 将用于社区及合作伙伴的回馈。**\
+通常，NFT 项目会用这种销售收入捐赠给慈善机构。但让我们实事求是，**与 DragonPunk 相关的销售收入的 80% 将用于社区及合作伙伴的回馈。**

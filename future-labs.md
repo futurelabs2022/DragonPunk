@@ -6,6 +6,6 @@ DragonPunk was jointly developed by Future labs and Japanese artists for NFT wor
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-​Future Labs团队由@FutureLabs和@[@](https://twitter.com/iamarkdev)[dragonpunk1](https://twitter.com/iamarkdev) 领导。
+​Future Labs团队由@FutureLabs和[@dragonpunknft](https://twitter.com/dragonpunknft) 共同领导。
 
 DragonPunk由Future Labs与日本艺术家联合开发对NFT作品，Future Labs开发团队的理念是创建一个开放平台，通过开源生态系统尽可能地做出贡献。到目前为止，由于我们的核心贡献者，我们能够以这种理念在路线图上极快地前进。我们的团队还包括几名社区版主、数十名来自全球的艺术家合作伙伴，有知名手绘师、大型网游制作师等，他们为玩家创造了令人难以置信的NFT内容和商业思路，并为有需要的全球开发者提供了平台。​
