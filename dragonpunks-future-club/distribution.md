@@ -1,8 +1,8 @@
 # Distribution
 
-**DragonPunk** **Income Distribution（ETH）**
+**DragonPunks** **Income Distribution（ETH）**
 
-_**80% income related to DragonPunk will be back to holders and social partners**_
+_**80% income related to DragonPunks will be back to holders and social partners**_
 
 ·5% bonus from community daily promotion tasks
 
@@ -14,7 +14,7 @@ _**80% income related to DragonPunk will be back to holders and social partners*
 
 ————————
 
-**DragonPunk收入分配（ETH）**
+**DragonPunks收入分配（ETH）**
 
 _**80%的NFT收入将发放给社区持有者及社会合作伙伴**_
 

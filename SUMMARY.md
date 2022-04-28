@@ -1,20 +1,19 @@
 # Table of contents
 
-* [Welcome](README.md)
-* [About DragonPunk](about-dragonpunk.md)
+* [About DragonPunks](README.md)
 * [Future Labs](future-labs.md)
 
-## Dragonpunk-deep dives
+## Dragonpunks-deep dives
 
-* [The Vision](dragonpunk-deep-dives/the-vision.md)
+* [The Vision](dragonpunks-deep-dives/the-vision.md)
 
 ***
 
-* [Why DragonPunk?](why-dragonpunk.md)
+* [Why DragonPunks?](why-dragonpunk.md)
 * [RoadMap](roadmap.md)
 
-## Dragonpunk-future club
+## Dragonpunks-future club
 
-* [Community](dragonpunk-future-club/community.md)
-* [GEM:Staking NFT](dragonpunk-future-club/gem-staking-nft.md)
-* [Distribution](dragonpunk-future-club/distribution.md)
+* [Community](dragonpunks-future-club/community.md)
+* [GEM:Staking NFT](dragonpunks-future-club/gem-staking-nft.md)
+* [Distribution](dragonpunks-future-club/distribution.md)
