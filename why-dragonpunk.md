@@ -1,5 +1,7 @@
 # Why DragonPunks?
 
+![](.gitbook/assets/FRR1PcDaAAIE4xi.jpeg)
+
 **DragonPunks fair mechanism**
 
 The first DragonPunks is a collection of 10,000 unique NFT collections based on Ethereum. It is supported by the world-famous public chain Ethereum Ethereum underlying technology and combined with the world's largest distributed data storage system IPFs to create the safest and most valuable NFT digital assets.

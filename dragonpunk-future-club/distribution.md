@@ -1,5 +1,7 @@
 # Distribution
 
+****
+
 **DragonPunks** **Income Distribution（ETH）**
 
 _**80% income related to DragonPunks will be back to holders and social partners**_

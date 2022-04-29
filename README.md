@@ -1,4 +1,11 @@
+---
+cover: .gitbook/assets/72dda0313f2243fb2ada084c4230b583.png
+coverY: 0
+---
+
 # About DragonPunks
+
+
 
 About DragonPunks**What is DragonPunks?**DragonPunks is a game at the crossroads of several current trends, namely the use of NFT (irreplaceable token with multiple functions), the emergence of Meta boundary, cryptocurrency and, of course, the game world.
 

@@ -5,7 +5,7 @@
 
 ## Dragonpunks-deep dives
 
-* [The Vision](dragonpunks-deep-dives/the-vision.md)
+* [The Vision](dragonpunk-deep-dives/the-vision.md)
 
 ***
 
@@ -14,6 +14,6 @@
 
 ## Dragonpunks-future club
 
-* [Community](dragonpunks-future-club/community.md)
-* [GEM:Staking NFT](dragonpunks-future-club/gem-staking-nft.md)
-* [Distribution](dragonpunks-future-club/distribution.md)
+* [Community](dragonpunk-future-club/community.md)
+* [GEM:Staking NFT](dragonpunk-future-club/gem-staking-nft.md)
+* [Distribution](dragonpunk-future-club/distribution.md)
