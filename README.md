@@ -17,7 +17,7 @@ This is a dynamic new world, and DragonPunks players will be able to evolve thei
 
 **什么是DragonPunks？**DragonPunks 是一款处于当前几种趋势十字路口的游戏，即 NFT（具有多种功能的不可替代代币）的使用、元界的出现、加密货币，当然还有游戏世界。
 
-DragonPunks是在以太坊区块链上新创建的元界，由多个互连的智能合约组成，这些合约通过 NFT 创建逻辑（ERC-721 标准）和它们用于的功能。
+DragonPunks是在Polygon上新创建的元界，由多个互连的智能合约组成，这些合约通过 NFT 创建逻辑（ERC-721 标准）和它们用于的功能。
 
 在新创建的 DragonPunks Metaverse 中，NFT 龙与区块链结合，颠覆了对 NFT 的认知。整个 DragonPunks将从 10,000 个独特的 NFT 有限集合开始。这是一个充满活力的新世界，DragonPunks 的玩家将可以让他们的角色（不同的龙）在以太坊网络的深处进化。
 
