@@ -50,7 +50,7 @@ The platform allows other NFT series to synthesize gemstones to generate charact
 
 **DragonPunks公平机制**
 
-首发的DragonPunks基于以太坊的10,000件独特NFT收藏品的集合，是以全球知名公链以太坊 Ethereum底层技术为支持，结合全球最大的分布式数据存储系统 IPFS，致力打造最安全、价值最大化的NFT数字资产。
+首发的DragonPunks基于以太坊的10,000件独特NFT收藏品的集合，是以全球知名公链Polygon底层技术为支持，结合全球最大的分布式数据存储系统 IPFS，致力打造最安全、价值最大化的NFT数字资产。
 
 公平起见，DragonPunks的 NFT 是随机铸造的，新手玩家和资深用户具有同等几率购买到稀有 的NFT 。我们借助作弊工具来限制恶意操作，原理是在普通用户可以获得元数据之前找到元数据，然后在铸造过程中利用元数据获得更多的稀有 NFT，或者在元数据上传到 OpenSea 之前购买尚未公开的 NFT。这样就连我们的工作人员都无法使用作弊手段。
 

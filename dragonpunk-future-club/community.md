@@ -6,6 +6,6 @@ NFT with DragonPunks can become a Future Club member and enjoy the exclusive pre
 
 ————————
 
-DragonPunks NFT可以兼作Future Club俱乐部会员卡，享受会员福利。未来通过路线图激活，社区可以解锁额外福利，甚至所有 NFT作品都能在俱乐部质押获得以太坊奖励，代币将保存 在 NFT Token 的 ERC20智能合约之中，所有作品权益属于 NFT持有人；ERC-721NFT的相关信息与作品记录将永久保存在链上，其文件将会被永久存储于人类互联网。
+DragonPunks NFT可以兼作Future Club俱乐部会员卡，享受会员福利。未来通过路线图激活，社区可以解锁额外福利，甚至所有 NFT作品都能在俱乐部质押获得以太坊奖励，所有作品权益属于 NFT持有人；ERC-721NFT的相关信息与作品记录将永久保存在链上，其文件将会被永久存储于人类互联网。
 
 拥有DragonPunks的NFT即可成为Future Club会员，可享受独家DragonPunks周边、NFT的优先抢购权及线下活动通行证。
